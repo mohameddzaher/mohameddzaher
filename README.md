@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Zaher</h1>
-<h3 align="center">an innovative Software Engineer specializing in web programming as a full stack developer and flutter development from Egypt.</h3>
+<h3 align="center">I'm an innovative Software Engineer specializing in web programming as a full stack developer and flutter development from Egypt.</h3>
 
 - 🌱 I’m currently learning **full stack , flutter development .**
 
