@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mohamed Zaher</h1>
-<h4 align="center">I'm an innovative Software Engineer specializing in web programming as a full stack developer and flutter development from Egypt.</h4>
+<h4 align="center">As a Software Engineer, I specialize in full-stack web development using the MERN stack, building scalable and efficient solutions. Passionate about problem-solving and continuous learning.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohameddzaher" alt="mohameddzaher" /></a> </p>
 
