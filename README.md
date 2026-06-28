@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated typing header -->
 <a href="https://github.com/mohameddzaher">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Mohamed+Zaher;Software+Engineer+%7C+CTO;Product+%26+Business+Leader;Full-Stack+Engineer+(MERN+%2B+TypeScript)" alt="Typing SVG" />
 </a>
@@ -11,7 +10,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/mohameddzaher?style=for-the-badge&color=0e75b6&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/badge/Saudi_Council_of_Engineers-Certified_Software_Engineer-006400?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" alt="SCE Certified" />
+<img src="https://img.shields.io/badge/Saudi_Council_of_Engineers-Certified_Software_Engineer-006400?style=for-the-badge" alt="SCE Certified" />
 
 <br/><br/>
 
@@ -32,9 +31,7 @@
 
 ---
 
-## 👤 Professional Profile
-
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+## Professional Profile
 
 **Certified Software Engineer** registered with the **Saudi Council of Engineers (SCE)**, with 4+ years of experience spanning full-stack engineering, technical leadership, and business management.
 
@@ -44,17 +41,15 @@ Beyond engineering, a proven track record as a **Product Manager**, **Account Ma
 
 Actively building toward launching an independent tech venture — leveraging years of experience across both the engineering and business domains.
 
-<br clear="right"/>
-
 ---
 
-## 🚀 What I Bring to the Table
+## What I Bring to the Table
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### 🏗️ Technical Excellence
+### Technical Excellence
 - Full-stack development with **MERN stack** & **TypeScript**
 - System architecture, API design, and database modeling
 - Mobile development with **Flutter**
@@ -64,7 +59,7 @@ Actively building toward launching an independent tech venture — leveraging ye
     </td>
     <td valign="top" width="50%">
 
-### 💼 Business & Leadership
+### Business & Leadership
 - **CTO** — overseeing tech strategy & engineering teams
 - **Product Manager** — roadmap, backlog, sprint delivery
 - **Account Manager** — client relations & retention
@@ -77,7 +72,7 @@ Actively building toward launching an independent tech venture — leveraging ye
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -111,27 +106,27 @@ Actively building toward launching an independent tech venture — leveraging ye
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Domain | Stack |
 |:---|:---|:---:|:---:|
-| 🏛️ **[Al-Mahfood Law System](https://github.com/mohameddzaher/Al-mahfood-law-system)** | Complete legal case management — client tracking, case lifecycle, billing | Legal Tech | TypeScript · Node · React |
-| 💄 **[KCC Cosmetics System](https://github.com/mohameddzaher/KCC---Cosmetics-system)** | Business management platform for a cosmetics brand — inventory, orders, analytics | E-Commerce | TypeScript |
-| 🚛 **[Energize Logistics](https://github.com/mohameddzaher/energize-logistics)** | Internal logistics & operations management platform | Logistics | TypeScript |
-| 🛒 **[Joyride E-Commerce](https://github.com/mohameddzaher/Joyride-e-commerce)** | Full-stack e-commerce with product catalog, cart, checkout & order management | Retail | TypeScript |
-| 💳 **[Tapix Platform](https://github.com/mohameddzaher/Tapix-frontend)** | Full-stack business platform with dedicated frontend & backend | FinTech | TypeScript |
-| 🧖 **[Evara Spa System](https://github.com/mohameddzaher/Evara---Spa-system)** | Appointment booking & management system for a spa & wellness business | Health & Wellness | TypeScript |
-| 📋 **[First Line System](https://github.com/mohameddzaher/First-line-system)** | Custom end-to-end business operations system | Enterprise | TypeScript |
-| 🏡 **[Telal Real Estate](https://github.com/mohameddzaher/Telal-Real-estate)** | Real estate listings & inquiry management platform | PropTech | TypeScript |
-| 👧 **[Little Leaders](https://github.com/mohameddzaher/little-leaders)** | Educational platform for children — content & user portal | EdTech | TypeScript |
-| 🎉 **[Energize Events](https://github.com/mohameddzaher/Energize-Events)** | Event management & registration platform | Events | TypeScript |
-| 🚗 **[Mitsubishi System](https://github.com/mohameddzaher/Mitsubishi-System)** | Internal operations system for Mitsubishi dealership | Automotive | TypeScript |
-| 🏥 **[Royal Med](https://github.com/mohameddzaher/royal-med)** | Healthcare management — patient records, appointments & admin | HealthTech | JavaScript |
-| 🌐 **[Portfolio Website](https://github.com/mohameddzaher/Mohamed-Zaher-Website)** | Personal portfolio website showcasing work and experience | Portfolio | TypeScript |
+| **[Al-Mahfood Law System](https://github.com/mohameddzaher/Al-mahfood-law-system)** | Complete legal case management — client tracking, case lifecycle, billing | Legal Tech | TypeScript · Node · React |
+| **[KCC Cosmetics System](https://github.com/mohameddzaher/KCC---Cosmetics-system)** | Business management platform for a cosmetics brand — inventory, orders, analytics | E-Commerce | TypeScript |
+| **[Energize Logistics](https://github.com/mohameddzaher/energize-logistics)** | Internal logistics & operations management platform | Logistics | TypeScript |
+| **[Joyride E-Commerce](https://github.com/mohameddzaher/Joyride-e-commerce)** | Full-stack e-commerce with product catalog, cart, checkout & order management | Retail | TypeScript |
+| **[Tapix Platform](https://github.com/mohameddzaher/Tapix-frontend)** | Full-stack business platform with dedicated frontend & backend | FinTech | TypeScript |
+| **[Evara Spa System](https://github.com/mohameddzaher/Evara---Spa-system)** | Appointment booking & management system for a spa & wellness business | Health & Wellness | TypeScript |
+| **[First Line System](https://github.com/mohameddzaher/First-line-system)** | Custom end-to-end business operations system | Enterprise | TypeScript |
+| **[Telal Real Estate](https://github.com/mohameddzaher/Telal-Real-estate)** | Real estate listings & inquiry management platform | PropTech | TypeScript |
+| **[Little Leaders](https://github.com/mohameddzaher/little-leaders)** | Educational platform for children — content & user portal | EdTech | TypeScript |
+| **[Energize Events](https://github.com/mohameddzaher/Energize-Events)** | Event management & registration platform | Events | TypeScript |
+| **[Mitsubishi System](https://github.com/mohameddzaher/Mitsubishi-System)** | Internal operations system for Mitsubishi dealership | Automotive | TypeScript |
+| **[Royal Med](https://github.com/mohameddzaher/royal-med)** | Healthcare management — patient records, appointments & admin | HealthTech | JavaScript |
+| **[Portfolio Website](https://github.com/mohameddzaher/Mohamed-Zaher-Website)** | Personal portfolio website showcasing work and experience | Portfolio | TypeScript |
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -154,21 +149,21 @@ Actively building toward launching an independent tech venture — leveraging ye
 
 ---
 
-## 🏅 Certifications & Credentials
+## Certifications & Credentials
 
 <div align="center">
 
 | Credential | Issuing Body | Status |
 |:---|:---|:---:|
-| 🏛️ **Certified Software Engineer** | Saudi Council of Engineers (SCE) | ✅ Active |
-| 💼 **CTO** | Energize Tech Solutions | ✅ Active |
-| 🌍 **Location** | Riyadh, Saudi Arabia | 📍 |
+| **Certified Software Engineer** | Saudi Council of Engineers (SCE) | Active |
+| **CTO** | Energize Tech Solutions | Active |
+| **Location** | Riyadh, Saudi Arabia | |
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
